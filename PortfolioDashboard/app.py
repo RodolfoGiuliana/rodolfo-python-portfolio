@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📊 Portfolio Analytics Dashboard")
+st.title("Portfolio Analytics Dashboard")
 st.write("Upload a portfolio CSV file with columns: **ticker**, **weight**")
 
 # =========================
